@@ -8,12 +8,11 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Staging server
 
-This project are running heroku server.
 https://hansdev.herokuapp.com/
 
 ## Production server
 
--
+none
 
 ## Code scaffolding
 
