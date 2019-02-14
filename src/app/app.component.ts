@@ -7,4 +7,11 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'hansDev app';
+const person = { name: 'Matheus', age: 26 }
+
+const {name, age} = person
+
+console.log(name)
+console.log(age)
+
 }
